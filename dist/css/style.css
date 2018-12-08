@@ -81,7 +81,11 @@ a {
 }
 
 img {
-    width: 30rem;
+
+    width: 10rem;
+}
+#E-img {
+    width: 4rem;
 }
 
 img:hover {
@@ -94,7 +98,11 @@ img:hover {
 }
 
 .section h3 {
-    font-size: 2rem;
+     font-size: 2rem;
+ }
+
+.section h2 {
+    font-size: 1.4rem;
 }
 
 section#entertainment {
@@ -215,6 +223,11 @@ footer .footer-bottom {
 }
 
 .bg-light {
+     background: var(--light-color);
+     color: #333;
+ }
+
+.bg-white {
     background: var(--light-color);
     color: #333;
 }

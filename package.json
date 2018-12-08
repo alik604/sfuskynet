@@ -6,8 +6,8 @@
   "scripts": {
     "deploy": "gh-pages -d dist"
   },
-  "homepage": "https://bradtraversy.github.io/mytunes_landing",
-  "author": "Khizr ali pardhan",
+  "homepage": "https://www.sfuskynet.ca/",
+  "author": "Khizr Ali Pardhan",
   "license": "MIT",
   "dependencies": {
     "gh-pages": "^1.2.0"
