@@ -51,10 +51,13 @@ var sendEMail = function () {
 TODO
 SFU red color theme (some how)
 add timeline
+icon
+meta data
  */
 
 
 /*
             <p class="text-light">lori ipsum.....</p>
+        <img src="img/mockup2.png" alt="">
 
  */
