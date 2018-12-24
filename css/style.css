@@ -97,6 +97,9 @@ img:hover {
     margin: 0;
 }
 
+.section h4 {
+    font-size: 1.6rem;
+}
 .section h3 {
      font-size: 2rem;
  }
@@ -364,9 +367,6 @@ nav a#openup {
 }
 
 @media screen and (max-width: 780px) {
-    .gift-cards {
-        grid-template-columns: 1fr;
-    }
 
     footer .footer-cols {
         display: none;
