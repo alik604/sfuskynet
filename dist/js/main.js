@@ -51,9 +51,10 @@ var sendEMail = function () {
 TODO
 SFU red color theme (some how)
 add timeline
-fix images
-fix writing under exec names
-adjust background on Sponsors images?
-proper contact us with email forum
-link to join via SFSS
+ */
+
+
+/*
+            <p class="text-light">lori ipsum.....</p>
+
  */
