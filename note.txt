@@ -1,0 +1,3 @@
+use the following to deploy 
+
+npm run deploy
