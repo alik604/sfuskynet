@@ -1,7 +1,7 @@
 # sfuskynet
 
 
->website for SFU ROBOT SOCCER club
+>[website for SFU ROBOT SOCCER club](https://alik604.github.io/sfuskynet)
 
 
 
